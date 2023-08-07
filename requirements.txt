@@ -2,7 +2,7 @@ blinker==1.6.2
 certifi==2023.7.22
 click==8.1.6
 colorama==0.4.6
-dnspython==2.4.1
+dnspython
 Flask==2.3.2
 importlib-metadata==6.8.0
 itsdangerous==2.1.2
